@@ -1,2 +1,2 @@
-# dc_pos_order
+# DC POS ORDER
 Order From Point of Sale (pos)
